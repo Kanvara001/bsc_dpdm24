@@ -14,5 +14,12 @@ Score
 
 ## Score
 #### Grading Top 25% A : B+ - D ตามเกณฑ์
-
-
+|Work       |Detail                                 | Score    |
+|---------- |---------------------------------------|----------|
+|Midterm    |	data prepocessing                     |20%       |
+|Final      | ทฤษฎี data mining                     |20%       |
+|Project    | data prepocessing + data mining (กลุ่ม) |30%       |
+|Homework   | แบ่งกลุ่ม (Random)                       |20%       |
+|Quiz       | ถามตอบในห้อง                           |5%        |
+|Github     | ความสวยงาม                             |5%       |
+|Total      | รวม                                    |100%     |
