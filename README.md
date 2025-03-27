@@ -7,10 +7,6 @@ SIDS KKU Data Preparation and Data Mining
 Data Sheet >> [Click](https://drive.google.com/drive/folders/1N2rPW5cc8A_tj9f3FdCyPBujePaiBZzx?usp=sharing)
 
 Data Set >> [Click](https://drive.google.com/drive/folders/15KgqkzRScB-aoMFE0ad-R54sgFC-z7xp?usp=sharing)
-## Table of Content
-* Score
-
-
 
 ## Score
 #### Grading Top 25% A : B+ - D ตามเกณฑ์
@@ -39,5 +35,4 @@ Data Set >> [Click](https://drive.google.com/drive/folders/15KgqkzRScB-aoMFE0ad-
 
 * [Chapter 10. Cluster Analysis: Basic Concepts and Methods](https://drive.google.com/file/d/1m3wEVcYp8kNEluPsRV_3Vspfw_v1OEps/view?usp=sharing)
 
-## Coding
 
