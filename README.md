@@ -24,10 +24,20 @@ Data Set >> [Click](https://drive.google.com/drive/folders/15KgqkzRScB-aoMFE0ad-
 |Github     | ความสวยงาม                             |5%       |
 |Total      | รวม                                    |100%     |
 
-## [Chapter 1 Introduction to Data Mining]()
+## ทฤษฎี
+* [Chapter 1 Introduction to Data Mining](https://drive.google.com/file/d/11Dr7mOrXnq6nE-9yYmF5zKytrLcfHARK/view?usp=sharing)
 
-## Chapter 2 Getting to Know Your Data
+* [Chapter 2 Getting to Know Your Data](https://drive.google.com/file/d/1mBXx0e8O_LtZGwGpwSVOxlCQQNFgNDhf/view?usp=sharing)
 
-## Chapter 3 Data Preprocessing 
+* [Chapter 3 Data Preprocessing](https://drive.google.com/file/d/1GinwhMKjXowvD0XUPCtLZd-u3qsKTMEh/view?usp=sharing) 
 
-## Chapter 6 Mining Frequent Patterns, Association and Correlations: Basic Concepts and Methods
+* [Chapter 6 Mining Frequent Patterns, Association and Correlations: Basic Concepts and Methods](https://drive.google.com/file/d/1nHX29UBv3BfwW90-25Yf_s8sMI4PGnkv/view?usp=sharing)
+
+* [Chapter 8 Classification: Basic Concepts](https://drive.google.com/file/d/1WSs-0Fmcj3b-oarzM4Fw06dtKcKubDV2/view?usp=sharing)
+
+* [Chapter 9. Classification: Advanced Methods](https://drive.google.com/file/d/15IWq1VsAuMRknCfeju8qHdyCrSNtjKlX/view?usp=sharing)
+
+* [Chapter 10. Cluster Analysis: Basic Concepts and Methods](https://drive.google.com/file/d/1m3wEVcYp8kNEluPsRV_3Vspfw_v1OEps/view?usp=sharing)
+
+## Coding
+
